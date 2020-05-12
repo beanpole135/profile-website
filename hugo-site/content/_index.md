@@ -17,7 +17,7 @@ pre = ""
 ### Basic History
  - (2006) Took my first computer programming class at university (C++ class - required for physics major).
  - (2007) Learned more practical programming skill at the Air Force Institute of Technology (student internship)
- - (2008) Started graduate work at Ohio UniversityDid extensive numerical modeling work for the next 2-3 years in Fortran while at graduate school (trying to model the collapse of a neutron start into a supernova).
+ - (2008) Started graduate work at Ohio UniversityDid extensive numerical modeling work for the next 2-3 years in Fortran while at graduate school (trying to model the collapse of a neutron star into a type-II supernova).
  - (2009) Started working part-time with FreeBSD via the PC-BSD project (testing/fixing application packages called PBI's).
  - (2011) Obtained Master of Science degree in Nuclear Astrophysics from Ohio University
  - (2011) Got hired by [iXsystems](https://www.ixsystems.com) full-time as part of the PC-BSD project. 
@@ -26,7 +26,8 @@ pre = ""
 ## Computer Skills
 | Language | Read | Write | Last Used | Notes |
 |:-------------:|:------:|:------:|:------:|:------:|
-| C++ | Yes | Yes | Current | Primary coding language (with Qt libraries primarily)
+| Go | Yes | Yes | Current | Use this for automation, websites, and distributed system meshes.
+| C++ | Yes | Yes | Current | Use this with the Qt libraries primarily
 | Shell | Yes | Yes | Current | Use this all the time on FreeBSD and for writing automation procedures
 | HTML | Yes | Yes | Current | Use this off and on to make changes to websites such as this one
 | C | Yes | Yes | Off and on | Most base-level tools in FreeBSD are written in C and need occasional tweaks.
@@ -49,7 +50,10 @@ pre = ""
    * Creator and lead developer
 * (2018-Current) [Project Trident](http://project-trident.org)
    * Founder and business owner
-   * Lead developer and project organizer
+   * Lead developer and general manager
+* (2018-Current) [TrueCommand](http://www.ixsystems.com/truecommand)
+   * Project Architect for iXsystems
+   * Build and sales automation, middleware, API documentation
 
 ## Recent Journal Entries
 {{< recent-articles 5 >}}

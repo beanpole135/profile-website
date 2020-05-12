@@ -150,10 +150,14 @@ a:hover {
 	text-align: left;
 }
 
-.button {
+.button, .button:hover, #sponsor {
   border-radius: 5px;
   background-color: var(--MAIN-LINK-color);
-
+  color: #ffffff;
+  font-weight: bold;
+}
+.button > i {
+  color: #ffffff;
 }
 
 .bannerimg {
