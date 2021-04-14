@@ -15,16 +15,16 @@ author_profile: true
 
 ## Computer Skills
 | Language | Read | Write | Last Used | Notes |
-|:-------------:|:------:|:------:|:------:|:------:|
-| Go | Yes | Yes | Current | Use this for automation, websites, and distributed system meshes.
-| C++ | Yes | Yes | Current | Use this with the Qt libraries primarily
-| Shell | Yes | Yes | Current | Use this all the time on FreeBSD and for writing automation procedures
-| HTML | Yes | Yes | Current | Use this off and on to make changes to websites such as this one
-| C | Yes | Yes | Off and on | Most base-level tools in FreeBSD are written in C and need occasional tweaks.
-| Javascript | Yes | Somewhat | Off and on | Even smaller subset of my HTML skill set. Tend to find it unreliable and less precise than languages like C/C++
-| QML | Yes | Somewhat | 2017 | Slight variation of Javascript for embedded Qt applications
-| Fortran | Yes | Yes | 2011 | Mostly numerical calculations and analysis with advanced mathematics.
-| MATLAB | Yes | Yes | 2008 | Wrote graphical atmospheric modeling software in MATLAB
+|-------------|------|------|------|------|
+| Go | Yes | Yes | Current | Use this for automation, websites, and distributed system meshes.|
+| C++ | Yes | Yes | Current | Use this with the Qt libraries primarily|
+| Shell | Yes | Yes | Current | Use this all the time on FreeBSD and for writing automation procedures|
+| HTML | Yes | Yes | Current | Use this off and on to make changes to websites such as this one|
+| C | Yes | Yes | Off and on | Most base-level tools in FreeBSD are written in C and need occasional tweaks.|
+| Javascript | Yes | Somewhat | Off and on | Even smaller subset of my HTML skill set. Tend to find it unreliable and less precise than languages like C/C++|
+| QML | Yes | Somewhat | 2017 | Slight variation of Javascript for embedded Qt applications|
+| Fortran | Yes | Yes | 2011 | Mostly numerical calculations and analysis with advanced mathematics.|
+| MATLAB | Yes | Yes | 2008 | Wrote graphical atmospheric modeling software in MATLAB|
 
 #### Random notes about computer skills
 * I have been known to learn additional computing languages within a day or less (python, groovy, ruby, etc...), and then promptly forget about them once the task at hand is finished.
