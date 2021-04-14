@@ -40,6 +40,7 @@ In addition to the list below, I have been known to learn additional computing l
 
 ### List of Computer Languages and Proficiency
 
+<section>
 <table>
 <thead>
 <tr>
@@ -66,7 +67,7 @@ In addition to the list below, I have been known to learn additional computing l
 	<td>Use this with the Qt libraries primarily</td>
 </tr>
 <tr>
-	<td>Shell/td>
+	<td>Shell</td>
 	<td>Yes</td>
 	<td>Yes</td>
 	<td>Current</td>
@@ -116,3 +117,5 @@ In addition to the list below, I have been known to learn additional computing l
 </tr>
 </tbody>
 </table>
+
+</section>
