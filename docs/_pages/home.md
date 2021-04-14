@@ -15,7 +15,7 @@ author_profile: true
 
 ## Computer Skills
 | Language | Read | Write | Last Used | Notes |
-|-------------|------|------|------|------|
+| :---: | :---: | :---: | :---: | :---: |
 | Go | Yes | Yes | Current | Use this for automation, websites, and distributed system meshes.|
 | C++ | Yes | Yes | Current | Use this with the Qt libraries primarily|
 | Shell | Yes | Yes | Current | Use this all the time on FreeBSD and for writing automation procedures|
