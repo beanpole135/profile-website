@@ -14,17 +14,82 @@ author_profile: true
  - (Current) Still working for [iXsystems](https://www.ixsystems.com) as a software engineer and project lead.
 
 ## Computer Skills
-| Language | Read | Write | Last Used | Notes |
-| :---: | :---: | :---: | :---: | :---: |
-| Go | Yes | Yes | Current | Use this for automation, websites, and distributed system meshes.|
-| C++ | Yes | Yes | Current | Use this with the Qt libraries primarily|
-| Shell | Yes | Yes | Current | Use this all the time on FreeBSD and for writing automation procedures|
-| HTML | Yes | Yes | Current | Use this off and on to make changes to websites such as this one|
-| C | Yes | Yes | Off and on | Most base-level tools in FreeBSD are written in C and need occasional tweaks.|
-| Javascript | Yes | Somewhat | Off and on | Even smaller subset of my HTML skill set. Tend to find it unreliable and less precise than languages like C/C++|
-| QML | Yes | Somewhat | 2017 | Slight variation of Javascript for embedded Qt applications|
-| Fortran | Yes | Yes | 2011 | Mostly numerical calculations and analysis with advanced mathematics.|
-| MATLAB | Yes | Yes | 2008 | Wrote graphical atmospheric modeling software in MATLAB|
+<table>
+<thead>
+<tr>
+	<th>Language</th>
+	<th>Read</th>
+	<th>Write</th>
+	<th>Last Used</th>
+	<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+	<td>Go</td>
+	<td>Yes</td>
+	<td>Yes</td>
+	<td>Current</td>
+	<td>Use this for automation, websites, and distributed system meshes.</td>
+</tr>
+<tr>
+	<td>C++</td>
+	<td>Yes</td>
+	<td>Yes</td>
+	<td>Current</td>
+	<td>Use this with the Qt libraries primarily</td>
+</tr>
+<tr>
+	<td>Shell/td>
+	<td>Yes</td>
+	<td>Yes</td>
+	<td>Current</td>
+	<td>Use this all the time on FreeBSD/Linux for writing automation procedures</td>
+</tr>
+<tr>
+	<td>HTML</td>
+	<td>Yes</td>
+	<td>Yes</td>
+	<td>Current</td>
+	<td>Use this quite a bit for website systems</td>
+</tr>
+<tr>
+	<td>Javascript</td>
+	<td>Yes</td>
+	<td>Somewhat</td>
+	<td>Current</td>
+	<td>Smaller subset of my HTML skill set. Typically used for debugging AngularJS</td>
+</tr>
+<tr>
+	<td>C</td>
+	<td>Yes</td>
+	<td>Yes</td>
+	<td>2018</td>
+	<td>Most base-level tools in FreeBSD are written in C and needed occasional tweaks.</td>
+</tr>
+<tr>
+	<td>QML</td>
+	<td>Yes</td>
+	<td>Somewhat</td>
+	<td>2017</td>
+	<td>Slight variation of Javascript for embedded Qt applications</td>
+</tr>
+<tr>
+	<td>Fortran</td>
+	<td>Yes</td>
+	<td>Yes</td>
+	<td>2011</td>
+	<td>Mostly numerical calculations and analysis with advanced mathematics.</td>
+</tr>
+<tr>
+	<td>MATLAB</td>
+	<td>Yes</td>
+	<td>Yes</td>
+	<td>2008</td>
+	<td>Wrote graphical atmospheric modeling software in MATLAB</td>
+</tr>
+</tbody>
+</table>
 
 #### Random notes about computer skills
 * I have been known to learn additional computing languages within a day or less (python, groovy, ruby, etc...), and then promptly forget about them once the task at hand is finished.
