@@ -56,7 +56,7 @@ plugins:
 
 author:
   name   : "Ken Moore"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/kencircle.png"
   bio    : "Full-stack developer and avid RPG enthusiast."
   links:
     - label: "GitHub Profile"

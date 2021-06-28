@@ -19,8 +19,9 @@ author_profile: true
    * Co-author of EasyPBI with Jesse Smith
    * Author of the [PCDM login manager](https://github.com/project-trident/pcdm)
    * Wrote/fixed various system administration utilities for PC-BSD/FreeBSD
-* (2012-Current) [Lumina Desktop](http://lumina-desktop.org)
+* (2012-2021) [Lumina Desktop](http://lumina-desktop.org)
    * Creator and lead developer
+   * Stepped back from development in June 2021.
 * (2018-Current) [Project Trident](http://project-trident.org)
    * Founder
    * Lead developer and general manager
