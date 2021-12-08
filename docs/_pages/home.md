@@ -11,7 +11,7 @@ author_profile: true
  - (2009) Started working part-time with FreeBSD via the PC-BSD project (testing/fixing application packages called PBI's).
  - (2011) Obtained Master of Science degree in Nuclear Astrophysics from Ohio University
  - (2011) Got hired by [iXsystems](https://www.ixsystems.com) full-time as part of the PC-BSD project. 
- - (Current) Still working for [iXsystems](https://www.ixsystems.com) as a software engineer and project lead.
+ - (Nov 2021) Started working for [ACS Technologies](https://www.acstechnologies.com/) as an R&D Team Lead
 
 ## Projects and Involvement
 * (2009-2018) [TrueOS](https://trueos.org) (formerly known as PC-BSD)
@@ -29,12 +29,16 @@ author_profile: true
    * Project Architect for iXsystems
    * Build and sales automation, middleware, API documentation
    * Lead a small team of developers and set goals/tasks/schedules.
-* (2020-Current)
+* (2020 - Oct 2021)
    * Supervisor of all Digital Services at iXsystems
    * Continue to spearhead the [TrueCommand](http://www.ixsystems.com/truecommand) project
    * Organize backend service automation systems and create web-services for API interactivity.
    * Write up internal websites which monitor backend services and provides various interactivity for company employees based on permission levels.
    * Plan out and prototype new functionality for tasks before handing off to individual team members.
+* (Nov 2021 - Current)
+   * Team lead in the R&D division at ACS Technologies
+   * The "Mercs" team focuses on internal tooling and support for other teams within the company.
+
 
 ## Computer Skills
 In addition to the list below, I have been known to learn additional computing languages within a day or less (python, groovy, ruby, etc...), and then promptly forget about them once the task at hand is finished.
