@@ -6,7 +6,7 @@ author_profile: true
 
 ![Project-Trident Banner](/profile-website/assets/images/pt-banner.png){:class="imp-responsive"}
 
-<h1 style="color: red;">Project Trident has been discontinued as of March 2022. This page is just an archive for historical reference."</h1>
+<h1 style="color: red;">Project Trident has been discontinued as of March 2022. This page is just an archive for historical reference.</h1>
 
 ## What is Project Trident?
 Project Trident is a desktop-focused operating system based on [Void Linux](http://voidlinux.org). It uses the [Lumina desktop](http://lumina-desktop.org) as well as a  number of self-developed utilities to provide an easy-to-use system that both beginners and advanced system administrators can feel comfortable running 24/7.
@@ -20,7 +20,7 @@ Project Trident is a desktop-focused operating system based on [Void Linux](http
 * ***Stable:*** Keep it running all day, every day, without loss of performance.
 * ***Open-source:*** All the source code for Project Trident is [freely available on GitHub](https://github.com/project-trident) for audit and enhancement by anyone.
 
-![PT Desktop Screenshot](/profile-website/assets/images/pg-screenshot-1.jpg)
+![PT Desktop Screenshot](/profile-website/assets/images/pt-screenshot-1.jpg){:class="imp-responsive"}
 
 
 # Features of Project Trident
