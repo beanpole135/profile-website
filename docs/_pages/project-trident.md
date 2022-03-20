@@ -4,8 +4,7 @@ title: "Project Trident"
 author_profile: true
 ---
 
-{% include warning.html
-	content="Project Trident has been discontinued as of March 2022. This page is just an archive for historical reference." %}
+<h1 style="color: red;">Project Trident has been discontinued as of March 2022. This page is just an archive for historical reference."</h1>
 
 ![Project-Trident Banner](/assets/images/pt-banner.png){:class="imp-responsive"}
 
