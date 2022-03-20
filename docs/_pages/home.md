@@ -22,9 +22,12 @@ author_profile: true
 * (2012-2021) [Lumina Desktop](http://lumina-desktop.org)
    * Creator and lead developer
    * Stepped back from development in June 2021.
-* (2018-Current) [Project Trident](http://project-trident.org)
+* (2018-2022) [Project Trident](http://project-trident.org)
    * Founder
    * Lead developer and general manager
+   * Project shut down and archived in March of 2022
+   * [Project Page](/project-trident)
+   * [GitHub Source Archives](https://github.com/project-trident)
 * (2018-2020) [TrueCommand](http://www.ixsystems.com/truecommand)
    * Project Architect for iXsystems
    * Build and sales automation, middleware, API documentation
