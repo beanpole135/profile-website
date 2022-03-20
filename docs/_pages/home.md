@@ -26,7 +26,7 @@ author_profile: true
    * Founder
    * Lead developer and general manager
    * Project shut down and archived in March of 2022
-   * [Project Page](/project-trident)
+   * [Project Page](project-trident)
    * [GitHub Source Archives](https://github.com/project-trident)
 * (2018-2020) [TrueCommand](http://www.ixsystems.com/truecommand)
    * Project Architect for iXsystems

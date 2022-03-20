@@ -1,5 +1,5 @@
 ---
-permalink: /profile-website/project-trident
+permalink: /project-trident
 title: "Project Trident"
 author_profile: true
 ---
