@@ -7,11 +7,11 @@ author_profile: true
 ## Basic History
  - (2006) Took my first computer programming class at university (C++ class - required for physics major).
  - (2007) Learned more practical programming skill at the Air Force Institute of Technology (student internship)
- - (2008) Started graduate work at Ohio UniversityDid extensive numerical modeling work for the next 2-3 years in Fortran while at graduate school (trying to model the collapse of a neutron star into a type-II supernova).
+ - (2008) Started graduate work at Ohio University. Did extensive numerical modeling work for the next 2-3 years in Fortran while at graduate school (trying to model the collapse of a neutron star into a type-II supernova).
  - (2009) Started working part-time with FreeBSD via the PC-BSD project (testing/fixing application packages called PBI's).
  - (2011) Obtained Master of Science degree in Nuclear Astrophysics from Ohio University
  - (2011) Got hired by [iXsystems](https://www.ixsystems.com) full-time as part of the PC-BSD project. 
- - (Nov 2021) Started working for [ACS Technologies](https://www.acstechnologies.com/) as an R&D Team Lead
+ - (Nov 2021) Started working for [ACS Technologies](https://www.acstechnologies.com/)
 
 ## Projects and Involvement
 * (2009-2018) [TrueOS](https://trueos.org) (formerly known as PC-BSD)
@@ -38,9 +38,12 @@ author_profile: true
    * Organize backend service automation systems and create web-services for API interactivity.
    * Write up internal websites which monitor backend services and provides various interactivity for company employees based on permission levels.
    * Plan out and prototype new functionality for tasks before handing off to individual team members.
-* (Nov 2021 - Current)
+* (Nov 2021 - Aug 2022)
    * Team lead in the R&D division at ACS Technologies
    * The "Mercs" team focuses on internal tooling and support for other teams within the company.
+* (Aug 2022 - Current)
+   * Solution Architect within the R&D division at ACS Technologies
+
 
 
 ## Computer Skills
